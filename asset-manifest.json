@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tours-app/static/css/main.4ff3b2a2.chunk.css",
+    "main.js": "/tours-app/static/js/main.52082213.chunk.js",
+    "main.js.map": "/tours-app/static/js/main.52082213.chunk.js.map",
+    "runtime-main.js": "/tours-app/static/js/runtime-main.9f23f58c.js",
+    "runtime-main.js.map": "/tours-app/static/js/runtime-main.9f23f58c.js.map",
+    "static/js/2.e65b4067.chunk.js": "/tours-app/static/js/2.e65b4067.chunk.js",
+    "static/js/2.e65b4067.chunk.js.map": "/tours-app/static/js/2.e65b4067.chunk.js.map",
+    "index.html": "/tours-app/index.html",
+    "static/css/main.4ff3b2a2.chunk.css.map": "/tours-app/static/css/main.4ff3b2a2.chunk.css.map",
+    "static/js/2.e65b4067.chunk.js.LICENSE.txt": "/tours-app/static/js/2.e65b4067.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f23f58c.js",
+    "static/js/2.e65b4067.chunk.js",
+    "static/css/main.4ff3b2a2.chunk.css",
+    "static/js/main.52082213.chunk.js"
+  ]
+}
